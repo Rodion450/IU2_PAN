@@ -1,0 +1,11 @@
+# Параметры легкого самолета
+name=Легкий самолет
+mass=18400
+wing_area=62
+Cx=0.02
+Cy=3.45
+max_thrust=14500
+specific_consumption=0.75
+max_speed=280
+max_altitude=8500
+fuel_capacity=4500
